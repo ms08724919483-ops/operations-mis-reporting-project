@@ -25,15 +25,19 @@ This project simulates real-world MIS workflows including data cleaning, validat
 
 ### MIS Daily Dashboard
 
-![MIS Daily](screenshots/mis_daily.png)
+![MIS Daily](screenshots/MIS_Daily.png)
 
 ### Inventory MIS
 
-![Inventory MIS](screenshots/mis_inventory.png)
+![Inventory MIS](screenshots/Inventory_MIS.png)
 
 ### Power Query Cleaning
 
-![Power Query](screenshots/power_query_cleaning.png)
+ Raw_Order_Cleaning
+
+![Power Query](screenshots/Raw_Order_Cleaning.png)
+ Inventory_Cleaning
+![Power Query](screenshots/Inventory_Cleaning.png)
 
 ## 📁 Files Included
 
@@ -45,3 +49,4 @@ This project simulates real-world MIS workflows including data cleaning, validat
 * KPI reporting
 * Operational MIS design
 * Excel dashboarding
+
